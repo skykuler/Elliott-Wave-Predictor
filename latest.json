@@ -1,7 +1,7 @@
 {
-  "version": "3.53.0.0",
-  "url": "https://cdn.jsdelivr.net/gh/skykuler/Elliott-Wave-Predictor@main/ElliottWavePredictor_v3.53.exe",
-  "size": 1418752,
-  "sha256": "68B201B788AA09E647491961D7CD277B6BE2C6CF13B343255F32A93BDFA3DCE2",
-  "note": "v3.53 修复更新检查(JSON解析) - 现在可正常检查更新"
+  "version": "3.54.0.0",
+  "url": "https://cdn.jsdelivr.net/gh/skykuler/Elliott-Wave-Predictor@main/ElliottWavePredictor_v3.54.exe",
+  "size": 1422848,
+  "sha256": "4EC3BE1A71AC8381901CC1174C53B80EC7F2725A255D3C147F479EA018FE3C3D",
+  "note": "v3.54 更新机制五项修复: 自动检查不再弹窗打扰/更新失败有提示/镜像动态化/下载进度显示/帮助文档更新"
 }
