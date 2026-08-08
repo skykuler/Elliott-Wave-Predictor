@@ -2,6 +2,6 @@
   "version": "3.59.0.0",
   "url": "https://raw.githubusercontent.com/skykuler/Elliott-Wave-Predictor/main/ElliottWavePredictor_v3.59.exe",
   "size": 1431040,
-  "sha256": "B049E8D59BEBFC627E2C16AA90316AE022840598410C49EB0F4F39DD32C82D75",
+  "sha256": "5C0F0ACB2242BB47778E18FD271B3FA793A94CB44F64511A2F4FA60AA3B9E6DA",
   "note": "v3.59 重大修复: 更新脚本中文路径丢失导致下载后无反应(幽灵路径根因), bat 改 GBK 写入"
 }
