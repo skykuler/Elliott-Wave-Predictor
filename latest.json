@@ -1,7 +1,7 @@
 {
-  "version": "3.60.0.0",
-  "url": "https://raw.githubusercontent.com/skykuler/Elliott-Wave-Predictor/main/ElliottWavePredictor_v3.60.exe",
-  "size": 1431040,
-  "sha256": "6914AD5275C42E06EF6569904476D0383E7C464240E4A5E0030C56BCA1296FEC",
-  "note": "v3.60 修复检查更新状态栏卡死: 自动检查与手动点击冲突/点否不恢复/自动静默不恢复三处UI状态"
+  "version": "3.61.0.0",
+  "url": "https://raw.githubusercontent.com/skykuler/Elliott-Wave-Predictor/main/ElliottWavePredictor_v3.61.exe",
+  "size": 1431552,
+  "sha256": "8E7E86AFDD0B2BB438C4A457A0E50F0E6015D049B4083E1993EFA867F88F56ED",
+  "note": "v3.61 更新提示枣红色: 正在检查更新/下载进度文字改枣红(与状态栏一致), 检查/下载结束自动恢复"
 }
