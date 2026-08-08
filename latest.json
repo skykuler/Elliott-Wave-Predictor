@@ -1,8 +1,7 @@
-
 {
-  "version": "3.47.0.0",
-  "url": "https://github.com/skykuler/Elliott-Wave-Predictor/releases/download/v3.47/ElliottWavePredictor_v3.47.exe",
-  "size": 1400320,
-  "sha256": "09F8355DB4F506D25F0BBA389FF3C6950C5D3CF014BDD9EB2E36E01BCDE09CF1",
-  "note": "v3.47 单实例锁 + 在线购买入口"
+  "version": "3.53.0.0",
+  "url": "https://cdn.jsdelivr.net/gh/skykuler/Elliott-Wave-Predictor@main/ElliottWavePredictor_v3.53.exe",
+  "size": 1418752,
+  "sha256": "68B201B788AA09E647491961D7CD277B6BE2C6CF13B343255F32A93BDFA3DCE2",
+  "note": "v3.53 修复更新检查(JSON解析) - 现在可正常检查更新"
 }
