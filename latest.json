@@ -1,7 +1,7 @@
 {
-  "version": "3.59.0.0",
-  "url": "https://raw.githubusercontent.com/skykuler/Elliott-Wave-Predictor/main/ElliottWavePredictor_v3.59.exe",
+  "version": "3.60.0.0",
+  "url": "https://raw.githubusercontent.com/skykuler/Elliott-Wave-Predictor/main/ElliottWavePredictor_v3.60.exe",
   "size": 1431040,
-  "sha256": "5C0F0ACB2242BB47778E18FD271B3FA793A94CB44F64511A2F4FA60AA3B9E6DA",
-  "note": "v3.59 重大修复: 更新脚本中文路径丢失导致下载后无反应(幽灵路径根因), bat 改 GBK 写入"
+  "sha256": "6914AD5275C42E06EF6569904476D0383E7C464240E4A5E0030C56BCA1296FEC",
+  "note": "v3.60 修复检查更新状态栏卡死: 自动检查与手动点击冲突/点否不恢复/自动静默不恢复三处UI状态"
 }
