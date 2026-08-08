@@ -1,7 +1,7 @@
 {
-  "version": "3.57.0.0",
-  "url": "https://raw.githubusercontent.com/skykuler/Elliott-Wave-Predictor/main/ElliottWavePredictor_v3.57.exe",
-  "size": 1428992,
-  "sha256": "1535EB02AD7FD9FCBB7C56D4FE6E05BCE146708DEC94DAA796B4E56460050039",
-  "note": "v3.57 镜像版本择优+下载源修复+乱码修复: CDN缓存旧清单不再误判已是最新/下载自动切raw源/更新说明中文正常显示"
+  "version": "3.58.0.0",
+  "url": "https://raw.githubusercontent.com/skykuler/Elliott-Wave-Predictor/main/ElliottWavePredictor_v3.58.exe",
+  "size": 1430016,
+  "sha256": "AE283B95D5D318FD5C924A88548353C387F7649C2CAB9BC01F4AE37631316CD9",
+  "note": "v3.58 代码质量审查修复: 托盘菜单ID冲突导致右键缩小退出程序/对话框字体泄漏/会话解析错位/线程退出崩溃/检查更新卡死修复(连接超时)"
 }
