@@ -1,7 +1,9 @@
 {
-    "version": "3.66.0.0",
-    "url": "https://raw.githubusercontent.com/skykuler/Elliott-Wave-Predictor/main/ElliottWavePredictor_v3.66.exe",
-    "size": 1510912,
-    "sha256": "0425B255AFD84731486048BB36ABA8709FEB2A1699C846CE1482928ADA160247",
-    "note": "v3.66 失败浪形态版: 3情景覆盖完整形态光谱 — 扩展=强推(五浪+0.618W1创新高) / 保守=标准(+0.382W1) / 弱势=失败浪(五浪-0.146W1低于三浪顶); 五浪/一浪下拉新增0.236失败浪档"
+  "version": "3.83.0.0",
+  "release_date": "2026-08-09",
+  "exe_name": "ElliottWavePredictor_v3.83.exe",
+  "size": 1542144,
+  "sha256": "7E415A70393DD3628DFF404EF55641589B1BCE4C057C56840FDB93ECAC7C7B02",
+  "url": "https://github.com/skykuler/Elliott-Wave-Predictor/releases/download/v3.83/ElliottWavePredictor_v3.83.exe",
+  "note": "v3.83 fix: input box numbers vertically centered via g_fntEdit 23px font (EM_SETRECTNP invalid for single-line EDIT)"
 }
