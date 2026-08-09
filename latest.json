@@ -1,7 +1,7 @@
 {
-    "version": "3.62.0.0",
-    "url": "https://raw.githubusercontent.com/skykuler/Elliott-Wave-Predictor/main/ElliottWavePredictor_v3.62.exe",
-    "size": 1647616,
-    "sha256": "F1196D9C525F5C1C117EC2DD4910D8ED54C3AF51A0103CDD967CEA852A0FDE4A",
-    "note": "v3.62 在线购买改为支付宝付款码弹窗 (收款码已嵌入 exe, GitHub 上无需单独放图片): 420x630 紧凑布局, ¥29.90 永久授权, 22 号说明文字自动折叠, 单实例锁支持僵尸进程放行, 模态窗口用 IsWindow 条件防卡死."
+    "version": "3.66.0.0",
+    "url": "https://raw.githubusercontent.com/skykuler/Elliott-Wave-Predictor/main/ElliottWavePredictor_v3.66.exe",
+    "size": 1510912,
+    "sha256": "0425B255AFD84731486048BB36ABA8709FEB2A1699C846CE1482928ADA160247",
+    "note": "v3.66 失败浪形态版: 3情景覆盖完整形态光谱 — 扩展=强推(五浪+0.618W1创新高) / 保守=标准(+0.382W1) / 弱势=失败浪(五浪-0.146W1低于三浪顶); 五浪/一浪下拉新增0.236失败浪档"
 }
