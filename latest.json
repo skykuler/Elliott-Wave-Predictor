@@ -2,6 +2,6 @@
     "version": "3.62.0.0",
     "url": "https://raw.githubusercontent.com/skykuler/Elliott-Wave-Predictor/main/ElliottWavePredictor_v3.62.exe",
     "size": 1647616,
-    "sha256": "B379E56388A7B574EDBF65FC97ED9D6A24973A5215FE2498ACE7DDF907A4FCE7",
+    "sha256": "F1196D9C525F5C1C117EC2DD4910D8ED54C3AF51A0103CDD967CEA852A0FDE4A",
     "note": "v3.62 在线购买改为支付宝付款码弹窗 (收款码已嵌入 exe, GitHub 上无需单独放图片): 420x630 紧凑布局, ¥29.90 永久授权, 22 号说明文字自动折叠, 单实例锁支持僵尸进程放行, 模态窗口用 IsWindow 条件防卡死."
 }
